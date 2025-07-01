@@ -13,11 +13,20 @@ Evaluate the strength of passwords using an online tool to understand security b
 
 ## Passwords Tested
 - **Weak Password**: `password123`
-  - Score: ~20%
+  - Score: ~43%
+    
+    ![image](https://github.com/user-attachments/assets/01cd62b6-ebe1-443a-b316-9a250082f878)
+
 - **Medium Password**: `P@ssw0rd`
-  - Score: ~60%
+  - Score: ~68%
+    
+    ![image](https://github.com/user-attachments/assets/d4cd4fad-b4ac-46d1-9509-38ac71c7f653)
+
 - **Strong Password**: `K!ll3rP@ssw0rd2025`
-  - Score: ~95%
+  - Score: ~100%
+    
+    ![image](https://github.com/user-attachments/assets/8cf56e3d-ffd2-4e14-8e26-460755b9b357)
+
 
 ## Steps Performed
 1. Created three passwords with varying complexity.
